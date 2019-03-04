@@ -1,4 +1,4 @@
-# UberExporter300
+# UberExporter3000
 
 Export all your files where you want!
 
@@ -6,7 +6,7 @@ Export all your files where you want!
 ```UberExporter3000 [origin path] [destination path] [options]```
 
 ### Options:
-- rmemptydirs: delete all empty folders it finds visiting filesystem
+- -rmemptydirs: delete all empty folders it finds visiting filesystem
 
 ### Features:
 - UE3000 won't visit all paths in "dirs.uber"
